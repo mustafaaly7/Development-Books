@@ -1,10 +1,6 @@
 # Developer needed book list
 
-_বাংলা বইসমুহ_
 
-- **ডাটা সাইন্স**
-
-  - <a href="https://raw.githubusercontent.com/samayun/devbooks/master/a-beginners-guide-to-data-science.pdf" target="_blank"> এ বিগেইনার গাইড টু ডাটা সাইন্স</a>
 
 _English Books_
 
